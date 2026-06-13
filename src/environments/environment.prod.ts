@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://api.macrilplas.com/api'  // Cambiar por tu URL de producción
+  apiUrl: 'https://papayawhip-walrus-534574.hostingersite.com/api'
 };
